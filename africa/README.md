@@ -1,1 +1,0 @@
-If you're in Africa, put your photo here!
