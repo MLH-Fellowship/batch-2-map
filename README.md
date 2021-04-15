@@ -17,7 +17,7 @@ Normal GitHub workflow for contributing to a project:
 You can find a few examples in the folder if you're unsure!
 
 Pull Requests will only get merged if:
-- Photo is a sqaure (ratio 1:1)
+- Photo is a square (ratio 1:1)
 - File name is all lower case, with `-` separating your first, last name and pod number.
 - In the appropriate region folder
 
